@@ -18,5 +18,29 @@ namespace Number.Logic
 
       return sum == number;
     }
+
+    public static bool IsPrime(long number)
+    {
+      bool valid = false;
+
+      for (int i = 3; i < number / 2; i++)
+      {
+
+        if (number == 2)
+        {
+          valid = true;
+        }
+        else if (number % 2 != 0)
+        {
+          valid = true;
+        }
+        else
+        {
+          valid = false;
+        }
+      }
+
+      return valid;
+    }
   }
 }
