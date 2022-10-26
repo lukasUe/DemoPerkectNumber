@@ -12,10 +12,10 @@ Beispiel:
 Die Zahl <b>6</b> ist <b>eine Perfekte Zahl</b>
 
 Teiler von 6:<br>
-- 1   wird nicht gez‰hlt (obwohls eigentlich egal w‰re)
+- 1   wird nicht gez√§hlt (obwohls eigentlich egal w√§re)
 - 2 
 - 3
-- 6  die Zahl selbst wird nicht gez‰hlt <br>
+- 6  die Zahl selbst wird nicht gez√§hlt <br>
   
  2 * 3 = 6
 
@@ -41,7 +41,7 @@ Folglich muss eine perfekte Zahl diese Eigenschaften besitzten:
 - gerade
 - wenig Teiler 
 
-Am Beispiel der 24, die viele Teiler hat, kann man sehen, dass hier eine hohe Diskrepanz zwischen der Zahl selbst und dem multiplizierten Ergebnis liegt 
+Am Beispiel der 24, die viele Teiler hat, kann man sehen, dass hier ein grosser Unterschied zwischen der Zahl selbst und dem multiplizierten Ergebnis liegt 
 
 
 
